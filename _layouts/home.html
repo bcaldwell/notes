@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+
+<div>
+  {% for term in site.data.notes %}
+  <h1>{{term.name}} - {{term.term}} </h1>
+
+
+  {% for notes in term.notes %}
+  <div>
+    <a href="/notes/{{notes.path}}">{{notes.name}}</a>
+  </div>
+  {% endfor %} {% endfor %}
+
+</div>

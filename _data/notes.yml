@@ -1,0 +1,18 @@
+---
+- name: 3B
+  term: Spring 2018
+  notes:
+    - name: SYDE 312
+      drive_id: 1rtvD20q2x-jgQ-JrekDWaFNDrR1gfWT9
+      path: 3B/syde_312
+      professor: Dr. Bircket
+    - name: SYDE 352
+      path: 3B/syde_352
+      drive_id: 1D7X8h4z2o-5jvCAJS_7R3R1OV0ps_xTF
+    - name: SYDE 362
+      path: 3B/syde_362
+    - name: SYDE 372
+      path: 3B/syde_372
+    - name: MUSIC 246
+      drive_id: 1sy1EquJBUUScs62UIenSixIRAeUvBmQp
+      path: 3B/music_246
