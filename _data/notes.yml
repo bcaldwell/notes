@@ -1,11 +1,15 @@
 ---
+# - name: 4A
+#   term: Fall 2018
+  # notes:
+
+
 - name: 3B
-  term: Spring 2018
+  term: Winter 2018
   notes:
     - name: SYDE 312
       drive_id: 1rtvD20q2x-jgQ-JrekDWaFNDrR1gfWT9
       path: 3B/syde_312
-      professor: Dr. Bircket
     - name: SYDE 352
       path: 3B/syde_352
       drive_id: 1D7X8h4z2o-5jvCAJS_7R3R1OV0ps_xTF
@@ -18,3 +22,82 @@
     - name: MUSIC 246
       drive_id: 1sy1EquJBUUScs62UIenSixIRAeUvBmQp
       path: 3B/music_246
+
+- name: 3A
+  term: Spring 2017
+  notes:
+    - name: SYDE 311
+      drive_id: 0B95BmH6i0HwhQWVpeE93Snh0Tnc
+      path: 3A/syde_311
+    - name: SYDE 351
+      path: 3A/syde_351
+      drive_id: 0B95BmH6i0HwhZlRnUW1JdlVOQjQ
+    - name: SYDE 361
+      path: 3A/syde_361
+      drive_id: 0B95BmH6i0HwhbHJJbzl5TWVrZ0U
+    - name: SYDE 381
+      path: 3A/syde_381
+      drive_id: 0B95BmH6i0HwhN0dzaDJRX3BZU00
+    - name: SYDE 383
+      drive_id: 0B95BmH6i0HwhMnR1cV9Na0lJbW8
+      path: 3A/syde_383
+
+- name: 2B
+  term: Fall 2016
+  notes:
+    - name: SYDE 212
+      path: 2B/syde_212
+      drive_id: 0B95BmH6i0HwhV2pFR1IyT3prc00
+    - name: SYDE 252
+      path: 3A/syde_252
+      drive_id: 0B95BmH6i0HwhdFRhWHM0T3ZGX3c
+    - name: SYDE 262
+      path: 3A/syde_262
+      drive_id: 0B95BmH6i0HwhTE1iTE9Eb3Itb1E
+    - name: SYDE 286
+      path: 3A/syde_286
+      drive_id: 0B95BmH6i0HwhTFNGNWlPbjhqdWs
+    - name: SYDE 292
+      path: 3A/syde_292
+      drive_id: 0B95BmH6i0HwhN1lNSkdoRkloMXc
+    - name: MSCI 211
+      path: 3A/msci_211
+      drive_id: 0B95BmH6i0HwhTEFrUnFDNmtVMm8
+
+- name: 2A
+  term: Winter 2016
+  notes:
+    - name: SYDE 211
+      drive_id: 0B95BmH6i0HwheFpoTTlfclJuZjQ
+      path: 2A/syde_211
+    - name: SYDE 223
+      path: 2A/syde_223
+      drive_id: 0B95BmH6i0HwhS1RHc3p1azE5NkE
+    - name: SYDE 261
+      path: 2A/syde_261
+      drive_id: 0B95BmH6i0HwhZERNal91VnpTczA
+    - name: SYDE 283
+      path: 2A/syde_283
+      drive_id: 0B95BmH6i0HwhUnREU2xTYVdtUHc
+    - name: SYDE 285
+      drive_id: 0B95BmH6i0HwhdkZRMk1JRm1JRjg
+      path: 2A/syde_285
+
+- name: 1B
+  term: Spring 2015
+  notes:
+    - name: SYDE 114
+      path: 1B/syde_114
+      drive_id: 0B95BmH6i0HwhZlJLb1g5UXY1cEU
+    - name: SYDE 162
+      path: 1B/syde_162
+      drive_id: 0B95BmH6i0HwhV2VxX0ZnWWp3TGs
+    - name: SYDE 182
+      path: 1B/syde_182
+      drive_id: 0B95BmH6i0HwhbWRadGs4N3ZkeVE
+    - name: SYDE 192
+      drive_id: 0B95BmH6i0HwhMkExaVdoTjF6RlE
+      path: 1B/syde_192
+    - name: ECON 101
+      drive_id: 0B95BmH6i0HwhdFFfYXRLTmpoSG8
+      path: 1B/econ_101
